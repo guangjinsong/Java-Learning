@@ -8,6 +8,12 @@
 
 
 
+# 抑制警告信息
+
+> 1. [@SuppressWarnings注解用法详解](https://www.cnblogs.com/weixiuli/p/6407248.html)
+
+
+
 # Idea中自动注释的缩进（避免添加注释自动到行首），且带空格
 
 ![动画](https://dawn1314.oss-cn-beijing.aliyuncs.com/typoraimg/202311061621589.gif)
